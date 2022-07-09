@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a9456160.css",
+    "main.js": "/static/js/main.b0cdb60e.js",
+    "static/media/Header.jpg": "/static/media/Header.d5a278fef4e3dd902c79.jpg",
+    "static/media/perrito.jpg": "/static/media/perrito.01fb76639de5957ec7af.jpg",
+    "index.html": "/index.html",
+    "main.a9456160.css.map": "/static/css/main.a9456160.css.map",
+    "main.b0cdb60e.js.map": "/static/js/main.b0cdb60e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9456160.css",
+    "static/js/main.b0cdb60e.js"
+  ]
+}
